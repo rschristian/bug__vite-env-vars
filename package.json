@@ -2,7 +2,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "VITE_VAR='foo' vite"
+    "dev": "vite"
   },
   "devDependencies": {
     "vite": "^5.2.0"

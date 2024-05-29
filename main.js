@@ -1,1 +1,1 @@
-console.log(`vite var: ${import.meta.env.VITE_VAR}`);
+console.log(`vite mode: ${import.meta.env.MODE}`);
